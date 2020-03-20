@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kenaki-order/static/css/main.4964e581.chunk.css",
+    "main.js": "/kenaki-order/static/js/main.1f65e0ae.chunk.js",
+    "main.js.map": "/kenaki-order/static/js/main.1f65e0ae.chunk.js.map",
+    "runtime-main.js": "/kenaki-order/static/js/runtime-main.37db5cfa.js",
+    "runtime-main.js.map": "/kenaki-order/static/js/runtime-main.37db5cfa.js.map",
+    "static/js/2.eeb2bae0.chunk.js": "/kenaki-order/static/js/2.eeb2bae0.chunk.js",
+    "static/js/2.eeb2bae0.chunk.js.map": "/kenaki-order/static/js/2.eeb2bae0.chunk.js.map",
+    "index.html": "/kenaki-order/index.html",
+    "precache-manifest.805a3a17f369aa2fa89d5e5a4b8f232d.js": "/kenaki-order/precache-manifest.805a3a17f369aa2fa89d5e5a4b8f232d.js",
+    "service-worker.js": "/kenaki-order/service-worker.js",
+    "static/css/main.4964e581.chunk.css.map": "/kenaki-order/static/css/main.4964e581.chunk.css.map",
+    "static/js/2.eeb2bae0.chunk.js.LICENSE.txt": "/kenaki-order/static/js/2.eeb2bae0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37db5cfa.js",
+    "static/js/2.eeb2bae0.chunk.js",
+    "static/css/main.4964e581.chunk.css",
+    "static/js/main.1f65e0ae.chunk.js"
+  ]
+}
