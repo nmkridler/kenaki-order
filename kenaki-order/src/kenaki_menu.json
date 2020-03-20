@@ -1,0 +1,272 @@
+[
+    {
+        "menu_item_id": 1,
+        "title": "Black Magic",
+        "description": "Forbidden rice, spicy tuna, pickled jalapeno, truffle oil, tempura flakes, black tobiko/roe, avocado & crispy leeks.",
+        "price": 17.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 1,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 2,
+        "title": "New Spicy Tuna",
+        "description": "Tuna, spicy tuna, tempura flakes, avocado, cilantro, Sriracha, jalapeno, pickled ginger, chives & spicy mayo.",
+        "price": 17.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 1
+    },
+    {
+        "menu_item_id": 3,
+        "title": "The Kitchen Sink",
+        "description": "Spicy tuna, shrimp tempura, eel, masago/roe, avocado, cucumber, sweet shoyu & spicy mayo.",
+        "price": 15.0,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 4,
+        "title": "Sweet Russet",
+        "description": "Salmon, eel, crispy potato, avocado, cucumber & sweet shoyu.",
+        "price": 12.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 5,
+        "title": "Donkey Kong",
+        "description": "Eel, fried plantain, cream cheese, cucumber, tempura flakes, togarashi mayo, sweet shoyu",
+        "price": 11.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 6,
+        "title": "Farmhouse",
+        "description": "Seasonal vegetables, lemon basil emulsion",
+        "price": 9.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 7,
+        "title": "White Tiger",
+        "description": "Seared scallop, salmon, eel, granny smith apple, avocado, puffed rice, sweet shoyu & chunky rayu. *Contains nuts/shellfish.",
+        "price": 18.75,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 8,
+        "title": "Green Monster",
+        "description": "Tempura shrimp, shiitake, spicy tuna, ito katsuo, spicy mayo & avocado.",
+        "price": 16.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 1,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 9,
+        "title": "Japanese Bagel",
+        "description": "Smoked salmon, cream cheese, shiso, red onion, chive, cucumber & house furikake.",
+        "price": 11.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 10,
+        "title": "Sake Harasu + Ume",
+        "description": "House cured salmon belly, shiso, ume, plum wine pickled shallot & kaiware.",
+        "price": 11.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 11,
+        "title": "Old Bae",
+        "description": "Lump crab meat, scallion, avocado & crispy potato.",
+        "price": 11.5,
+        "menu_group": "Makimono/Rolls - Signatures",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 12,
+        "title": "Cali",
+        "description": "California. Mayo, imitation crab meat, cucumber, avocado. Note- Mayo can't be excluded.",
+        "price": 5.5,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 1,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 13,
+        "title": "Cali with Masago/Roe",
+        "description": "California. Fish roe, mayo, imitation crab meat, cucumber, avocado. Note- Mayo can't be excluded.",
+        "price": 6.5,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 14,
+        "title": "Tuna, Avocado & Cucumber",
+        "description": "",
+        "price": 8.75,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 15,
+        "title": "Eel, Avocado & Cucumber",
+        "description": "",
+        "price": 8.75,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 16,
+        "title": "Spicy Tuna",
+        "description": "Jalapeno, avocado & scallion. Note- Mayo can't be excluded.",
+        "price": 8.25,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 1
+    },
+    {
+        "menu_item_id": 17,
+        "title": "Shimp Tempura Maki",
+        "description": "Kewpie (Japanese mayo) & butter lettuce.",
+        "price": 8.75,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 18,
+        "title": "Salmon, Avocado & Cucumber",
+        "description": "",
+        "price": 7.75,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 19,
+        "title": "Asparagus Tempura",
+        "description": "Avocado, cucumber & kewpie (Japanese mayo).",
+        "price": 7.0,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 20,
+        "title": "Salmon Skin",
+        "description": "Shiso, granny smith apple & cucumber.",
+        "price": 7.0,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 21,
+        "title": "Rainbow",
+        "description": "Cali, masago/roe, tuna, kanpachi, salmon & white fish.",
+        "price": 16.5,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 22,
+        "title": "Avocado + Cucumber",
+        "description": "",
+        "price": 6.5,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 23,
+        "title": "Crunchy Spicy Tuna",
+        "description": "Tempura flakes, sriracha & cilantro.",
+        "price": 9.25,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 1
+    },
+    {
+        "menu_item_id": 24,
+        "title": "Crunchy Spicy Salmon",
+        "description": "Tempura flakes, sriracha & cilantro.",
+        "price": 8.25,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 1
+    },
+    {
+        "menu_item_id": 25,
+        "title": "Crunchy Spicy Scallop",
+        "description": "Tempura flakes, masago/roe, scallion & mayo. Note- Mayo, Scallion & Masago/roe can't be excluded.",
+        "price": 10.25,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 1
+    },
+    {
+        "menu_item_id": 26,
+        "title": "Crunchy Shrimp",
+        "description": "Tempura flakes, masago/roe, scallion & kewpie (Japanese mayo). Note- Mayo, Scallion & Masago/roe can't be excluded.",
+        "price": 8.75,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 27,
+        "title": "Avocado only",
+        "description": "",
+        "price": 6.5,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 28,
+        "title": "Philly",
+        "description": "Smoked Salmon, Cream Cheese & Cucumber",
+        "price": 7.8,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 29,
+        "title": "Cucumber only",
+        "description": "",
+        "price": 4.5,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    },
+    {
+        "menu_item_id": 30,
+        "title": "Crunchy Spicy Avocado + Cucumber",
+        "description": "",
+        "price": 7.0,
+        "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "is_top_item": 0,
+        "is_spicy": 0
+    }
+]
