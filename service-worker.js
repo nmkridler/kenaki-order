@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kenaki-order/precache-manifest.805a3a17f369aa2fa89d5e5a4b8f232d.js"
+  "/kenaki-order/precache-manifest.469c1a68235b1caabf0143b646a6ec19.js"
 );
 
 self.addEventListener('message', (event) => {
