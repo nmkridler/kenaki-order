@@ -1,5 +1,5 @@
 
-import React from 'react';
+import React, { useState } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import ExpansionPanel from '@material-ui/core/ExpansionPanel';
 import ExpansionPanelSummary from '@material-ui/core/ExpansionPanelSummary';
@@ -21,10 +21,15 @@ const useStyles = makeStyles(theme => ({
 
 export default function MenuGroup(props) {
   const classes = useStyles();
+  const [ expanded, setExpanded ] = useState(true);
+
+  const handleExpansionClick = () => {
+    setExpanded(!expanded);
+  }
 
   return (
-      <ExpansionPanel>
-        <ExpansionPanelSummary
+      <ExpansionPanel expanded={expanded} >
+        <ExpansionPanelSummary onClick={handleExpansionClick}
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel1a-content"
           id="panel1a-header"

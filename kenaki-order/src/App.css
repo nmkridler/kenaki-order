@@ -35,9 +35,10 @@
 }
 
 .menu-item-card-price {
-  font-size: 1.1rem !important;  
+  font-size: 1.1rem !important;
   float: right;
 }
+
 
 @keyframes App-logo-float {
   0% {

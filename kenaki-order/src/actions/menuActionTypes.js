@@ -1,1 +1,6 @@
 export const TOGGLE_MENU_MODAL = 'TOGGLE_MENU_MODAL';
+export const TOGGLE_BAG_MODAL = 'TOGGLE_BAG_MODAL';
+export const ADD_TO_BAG = 'ADD_TO_BAG';
+export const UPDATE_BAG_QUANTITY = 'UPDATE_BAG_QUANTITY';
+export const REMOVE_FROM_BAG = 'REMOVE_FROM_BAG';
+export const EMPTY_BAG = 'EMPTY_BAG';

@@ -3,9 +3,11 @@ import { TOGGLE_MENU_MODAL } from "../actions/menuActionTypes";
 const defaultMenuState = {
     menuOpen: false,
     itemProps: {
+        menu_item_id: 0,
         description: '',
         title: '',
-        price: 0.0
+        price: 0.0,
+        modifications: []
     }
 }
 

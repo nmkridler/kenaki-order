@@ -1,0 +1,44 @@
+{
+    "rolls": [
+        {
+            "label": "NO MODIFICATIONS",
+            "price": 0
+        },
+        {
+            "label": "Add Spicy Mayo",
+            "price": 0.75
+        },
+        {
+            "label": "Add Sweet Shoyu",
+            "price": 0.75
+        },
+        {
+            "label": "Sub Black Rice",
+            "price": 2.00
+        },
+        {
+            "label": "Add Cucumber",
+            "price": 0.75
+        },
+        {
+            "label": "Add Avocado",
+            "price": 1.50
+        },
+        {
+            "label": "Add Masago/Fish Roe",
+            "price": 1.75
+        },
+        {
+            "label": "Add Sriracha",
+            "price": 0.75
+        },
+        {
+            "label": "Add Cream Cheese",
+            "price": 1.25
+        },
+        {
+            "label": "Add Tempura Flakes",
+            "price": 0.75
+        }
+    ]
+}

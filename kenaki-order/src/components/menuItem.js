@@ -17,12 +17,14 @@ const useStyles = makeStyles({
 });
 
 const MenuItem = (props) => {
-  
+
   const toggleModal = (props) => {
       let item_props = {
+          menu_item_id: props.menu_item_id,
           description: props.description,
           title: props.title,
-          price: props.price
+          price: props.price,
+          modifications: props.mods || []
       }
       props.toggleMenuModal(!props.opened, item_props);
   }
@@ -40,11 +42,11 @@ const MenuItem = (props) => {
             </Typography>
             <Typography className="menu-item-card-body" color="textSecondary">
               {props.description}
-            </Typography>                
+            </Typography>
           </Grid>
           <Grid item xs={3}>
               <span className="menu-item-card-price">{dollarPrice}</span>
-          </Grid>  
+          </Grid>
         </Grid>
       </CardContent>
       </CardActionArea>
@@ -58,8 +60,8 @@ MenuItem.defaultProps = {
 
 const mapStateToProps = state => {
 
-    return { 
-        opened: state.menu.menuOpen 
+    return {
+        opened: state.menu.menuOpen
     };
 };
 

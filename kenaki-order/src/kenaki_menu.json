@@ -104,6 +104,7 @@
         "description": "California. Mayo, imitation crab meat, cucumber, avocado. Note- Mayo can't be excluded.",
         "price": 5.5,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 1,
         "is_spicy": 0
     },
@@ -113,6 +114,7 @@
         "description": "California. Fish roe, mayo, imitation crab meat, cucumber, avocado. Note- Mayo can't be excluded.",
         "price": 6.5,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -122,6 +124,7 @@
         "description": "",
         "price": 8.75,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -131,6 +134,7 @@
         "description": "",
         "price": 8.75,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -140,6 +144,7 @@
         "description": "Jalapeno, avocado & scallion. Note- Mayo can't be excluded.",
         "price": 8.25,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 1
     },
@@ -149,6 +154,7 @@
         "description": "Kewpie (Japanese mayo) & butter lettuce.",
         "price": 8.75,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -158,6 +164,7 @@
         "description": "",
         "price": 7.75,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -176,6 +183,7 @@
         "description": "Shiso, granny smith apple & cucumber.",
         "price": 7.0,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -194,6 +202,7 @@
         "description": "",
         "price": 6.5,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -203,6 +212,7 @@
         "description": "Tempura flakes, sriracha & cilantro.",
         "price": 9.25,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 1
     },
@@ -212,6 +222,7 @@
         "description": "Tempura flakes, sriracha & cilantro.",
         "price": 8.25,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 1
     },
@@ -221,6 +232,7 @@
         "description": "Tempura flakes, masago/roe, scallion & mayo. Note- Mayo, Scallion & Masago/roe can't be excluded.",
         "price": 10.25,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 1
     },
@@ -230,6 +242,7 @@
         "description": "Tempura flakes, masago/roe, scallion & kewpie (Japanese mayo). Note- Mayo, Scallion & Masago/roe can't be excluded.",
         "price": 8.75,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -239,6 +252,7 @@
         "description": "",
         "price": 6.5,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -248,6 +262,7 @@
         "description": "Smoked Salmon, Cream Cheese & Cucumber",
         "price": 7.8,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -257,6 +272,7 @@
         "description": "",
         "price": 4.5,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     },
@@ -266,6 +282,7 @@
         "description": "",
         "price": 7.0,
         "menu_group": "Makimono/Rolls - Standards/Crunchy",
+        "modifications": "rolls",
         "is_top_item": 0,
         "is_spicy": 0
     }
